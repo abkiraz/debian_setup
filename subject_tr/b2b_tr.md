@@ -16,7 +16,7 @@ Seçtiğiniz işletim sisteminin en son kararlı sürümünü seçmelisiniz. Tes
 
 LVM'yi kullanarak en az 2 şifrelenmiş bölüm oluşturmalısınız. Aşağıda bunun bir örneği bulunmaktadır:
 
-<img src="./diks.png">
+<img src="./disk.png">
 
 <div style="border:2px dashed Purple;padding: 7px; border-radius:17px; background:; margin-bottom: px;"> Savunma sırasında size konuyla ilgili birkaç soru sorulacak.
 <ul style="padding-left: px;">
@@ -55,7 +55,7 @@ Güçlü bir şifre politikası oluşturmak için aşağıdaki gereksinimlere uy
   - *Bu ifade, kök (root) şifresi için geçerli değildir*.
 - Elbette root şifrenizin bu politikalara uyması gerekiyor
 
-Sanal makinenizde yapılandırma dosyalarınızı ayarladıktan sonra, sanal makinedeki tüm hesapların, kök hesabı dahil olmak üzere şifrelerini değiştirmeniz gerekecektir 
+Sanal makinenizde yapılandırma dosyalarınızı ayarladıktan sonra, sanal makinedeki tüm hesapların, kök hesabı dahil olmak üzere şifrelerini değiştirmeniz gerekecektir  
 
 ***
 
