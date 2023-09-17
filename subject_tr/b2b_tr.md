@@ -4,7 +4,7 @@ Virtualization, Türkçe karşılığıyla "Sanallaştırma Teknolojisi", tek bi
 
 VirtualBox veya UTM gibi sanallaştırma yazılımlarını kullanmak zorunludur. Sadece bir signature.txt dosyası teslim etmeniz gerekiyor. Bu dosyayı, makinenizin sanal diskinin imzasını yapıştırmalısınız. Daha fazla bilgi için Teslim ve Akran Değerlendirmesi bölümüne bakın ¹.
 
-## Mandatory
+## Zorunlu kısım
 
 Bu proje, belirli kuralları takip ederek ilk sunucunuzu kurmanızı amaçlamaktadır.
 
@@ -42,7 +42,7 @@ Wil42). Değerlendirmeniz sırasında bu ana bilgisayar adını değiştirmeniz 
 
 Savunma sırasında yeni bir kullanıcı oluşturmanız ve onu bir gruba atamanız gerekecektir.
 
-Güçlü bir şifre politikası oluşturmak için aşağıdaki gereksinimlere uymanız gerekir:
+**Güçlü bir şifre politikası oluşturmak için aşağıdaki gereksinimlere uymanız gerekir:**
 
 - Şifrenizin süresinin her 30 günde dolmalı
 - Şifre değişikleikleri arasında en az 2 gün olmalı
@@ -59,8 +59,7 @@ Sanal makinenizde yapılandırma dosyalarınızı ayarladıktan sonra, sanal mak
 
 ***
 
-Sudo grubunuz için güçlü bir yapılandırma oluşturmak için aşağıdakilere uymanız gerekir:
-aşağıdaki gereksinimler:
+**Sudo grubunuz için güçlü bir yapılandırma oluşturmak için aşağıdakilere uymanız gerekir**
 
 - Sudo kullanarak yapılan kimlik doğrulama, yanlış parola durumunda 3 denemeyle sınırlı olmalıdır.
 - Sudo kullanırken yanlış şifre nedeniyle bir hata meydana gelirse, seçtiğiniz özel bir mesajın görüntülenmesi gerekir.
