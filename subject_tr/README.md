@@ -1,4 +1,4 @@
-# <span style="color:;"> <center> b2b pdf </span>
+# <span style="color:;"> <center> b2b subject pdf TR</span>
 
 Virtualization, Türkçe karşılığıyla "Sanallaştırma Teknolojisi", tek bir fiziksel bilgisayar veya sunucunun donanım kaynaklarını kullanarak birden fazla sanal makine çalıştırılmasını sağlayan bir teknolojidir ¹. Bu sayede, bilgisayarınızın performansı ve verimliliği artar, IT masrafları azalır ve bulut bilişim gibi yeni teknolojilerden faydalanabilirsiniz. <span style="color:MediumSeaGreen;">VirtualBox</span> veya <span style="color:MediumSeaGreen;">UTM</span> gibi sanallaştırma yazılımları kullanarak, belirli talimatlar doğrultusunda ilk sanal makinenizi oluşturabilirsiniz. Bu proje sonunda, kendi işletim sisteminizi kurabilir ve sıkı kurallar uygulayabilirsiniz ¹.
 
