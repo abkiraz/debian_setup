@@ -1,4 +1,6 @@
-/boot/efi bölümü, UEFI (Unified Extensible Firmware Interface) önyükleme sürecinde kullanılır. Bu bölüm, UEFI firmware tarafından kullanılan önyükleme yükleyicilerini içerir. UEFI, BIOS'un yerini alan daha modern bir firmware'dir. BIOS'un aksine, UEFI, 2 TB'den büyük diskler ve GPT (GUID Partition Table) gibi yeni disk bölümleme sistemlerini destekler ²³ .
+# notlar
+
+/boot/efi bölümü, UEFI (Unified Extensible Firmware Interface) önyükleme sürecinde kullanılır. Bu bölüm, UEFI firmware tarafından kullanılan önyükleme yükleyicilerini içerir. UEFI, BIOS'un yerini alan daha modern bir firmware'dir. BIOS'un aksine, UEFI, 2 TB'den büyük diskler ve GPT (GUID Partition Table) gibi yeni disk bölümleme sistemlerini destekler.
 
 LVM (Logical Volume Manager), disk bölümlerini yönetmek için kullanılan bir araçtır. LVM, disk bölümlerinin boyutunu dinamik olarak değiştirmeyi ve birden fazla diski tek bir mantıksal birim olarak birleştirmeyi mümkün kılar. LVM, /boot/efi bölümünün LVM grubu dışında ayarlanması gerektiğini belirtir ¹. Bu nedenle, /boot/efi bölümü LVM grubu dışında ayarlanmalıdır.
 
